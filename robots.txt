@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://vulorapube.pages.dev/sitemap.xml
